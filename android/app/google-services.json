@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "257036079594",
+    "project_id": "manoteapp",
+    "storage_bucket": "manoteapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257036079594:android:4332d6152b18c5af5ca293",
+        "android_client_info": {
+          "package_name": "com.example.manote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP8lnROux2plvdM2GpyX4Y2ExCFr3yxS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
